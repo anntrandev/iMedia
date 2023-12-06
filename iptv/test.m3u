@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="test-mot-tap-full" tvg-name="Link 1" tvg-logo="https://phim.nguonc.com/public/images/Film/6tPvO6EjsBzuq4HWbXYwyDwsijX.jpg" group-title="Gia Đình Bá Đạo" tvg-url="https://cdn.stream-cloud.stream/vod/play/e3538178-ac8c-41d0-a3b4-fcbcff14911b.m3u8",Link 1 (Full)
+https://cdn.stream-cloud.stream/vod/play/e3538178-ac8c-41d0-a3b4-fcbcff14911b.m3u8
+#EXTINF:-1 tvg-id="test-hai-tap-full" tvg-name="Link 2" tvg-logo="https://phim.nguonc.com/public/images/Film/6tPvO6EjsBzuq4HWbXYwyDwsijX.jpg" group-title="Gia Đình Bá Đạo" tvg-url="https://fetch.cloudz.win/play/f803b4ae-1dde-4d0c-84f3-d2ae3c9b07fb.m3u8",Link 2 (Full)
+https://fetch.cloudz.win/play/f803b4ae-1dde-4d0c-84f3-d2ae3c9b07fb.m3u8
